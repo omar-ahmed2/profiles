@@ -30,6 +30,7 @@ div{
     height: 100px;
     background-image: url(wallpaperflare2.com_wallpaper.jpg);
     background-size: cover;
+    transition: 2s;
 }
 
 .groot{
@@ -38,6 +39,7 @@ div{
     height: 100px;
     background-image: url(wallpaperflare3.com_wallpaper.jpg);
     background-size: cover;
+    transition: 2s;
 }
 
 .natural-view{
@@ -46,6 +48,7 @@ div{
     height: 100px;
     background-image: url(wallpaperflare4.com_wallpaper.jpg);
     background-size: cover;
+    transition: 2s;
 }
 
 p{
@@ -61,5 +64,4 @@ p{
 
 .animation:hover{
     scale: 1.2;
-    transition: 2s;
 }
